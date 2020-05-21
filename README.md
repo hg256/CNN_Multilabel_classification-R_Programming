@@ -1,5 +1,5 @@
 # CNN_Multilabel_classification_R
-Finding the significant attributes to identify a specific work of art among 1.5M objects in the Metropolitan Museum of Art in New York
+Finding the significant attributes to identify a specific work of art using Convolutional Neural Networks with R Programming.
 
 The Metropolitan Museum of Art in New York, also known as The Met, has a diverse collection of over 1.5M objects of which over 200K have been digitized with imagery.
 
